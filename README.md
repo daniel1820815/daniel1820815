@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel. Kuhl.
 - 👀 I’m interested in Network Programmability & Automation.
-- 🌱 I’m currently learning for the DEVCOR exam to achieve the Cisco DevNet Professional certification.
+- 🌱 I’m currently studying for the Cisco DevNet Expert certification.
 - 💞️ I’m looking to collaborate on [Twitter](https://twitter.com/daniel1820815), [LinkedIn](https://www.linkedin.com/in/daniel-kuhl-b8b9603b/), or on my blog called ["Kuhlcloud - IT Networks and more"](https://blog.kuhlcloud.de/)
 - 📫 You can reach me on the above mentioned platforms.
 
