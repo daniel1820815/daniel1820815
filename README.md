@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel. Kuhl.
 - 👀 I’m interested in Cyber Security, Network Programmability & Automation.
-- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/daniel-kuhl-b8b9603b/) or [Mastodon](https://techhub.social/@daniel1820815).
+- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/daniel-kuhl-b8b9603b/) or [Mastodon](https://infosec.exchange/@daniel1820815).
 - 📫 You can reach me on the above mentioned platforms.
 
 <!---
